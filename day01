@@ -1,1 +1,3 @@
-To be or not to be, that is a question
+public static void main(String[] args){
+  System.out.println("hello world");
+}
